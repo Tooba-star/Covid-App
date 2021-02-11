@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin: 2px auto;
+}
+body{
+  background-image:url("./images/covid.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
